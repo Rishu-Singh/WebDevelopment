@@ -25,6 +25,7 @@ html {
 .box-container {
   display: flex;
   justify-content: center;
+  flex-flow: wrap;
 }
 .box {
   flex-direction: row;

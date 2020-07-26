@@ -37,6 +37,8 @@ html {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  -ms-flex-flow: wrap;
+      flex-flow: wrap;
 }
 
 .box {
